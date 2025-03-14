@@ -7,6 +7,7 @@ This project detects potentially unreliable (fake) news articles using Natural L
 - **train.csv** contains 20,800 articles labeled as:
   - `1`: Unreliable (Fake)
   - `0`: Reliable (Real)
+- **train.csv** - https://www.kaggle.com/c/fake-news/data?select=train.csv
 
 ## Technologies & Libraries
 - **Python**
