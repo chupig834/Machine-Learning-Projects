@@ -6,7 +6,7 @@ This project utilizes machine learning techniques to predict the quality of red 
 A **Random Forest Classifier** is trained on the dataset to classify wines as either good quality (quality >= 7) or bad quality (quality < 7).
 
 ## Dataset
-The dataset used for this project is `winequality-red.csv`, which contains the following features:
+The dataset used for this project is `winequality-red.csv`, which contains the following features: http://kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009/data?select=winequality-red.csv
 
 - **Fixed Acidity**
 - **Volatile Acidity**
