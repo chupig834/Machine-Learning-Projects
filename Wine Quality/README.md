@@ -105,9 +105,4 @@ else:
 - Hyperparameter tuning for better accuracy
 - Use a larger dataset for better generalization
 
-## License
-This project is for educational purposes only and follows open-source licensing norms.
-
-## Author
-Your Name (Optional)
 
