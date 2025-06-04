@@ -63,6 +63,3 @@ You can input custom data points and use the trained SVM model to predict loan a
 ## Contact
 If you have questions or issues, please open an issue on GitHub or contact me directly.
 
----
-**Happy Predicting! 🎯**
-
