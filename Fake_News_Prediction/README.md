@@ -70,8 +70,3 @@ else:
 ## License
 MIT
 
-## Contact
-Jerry Chu
-- [LinkedIn](your-linkedin-url)
-- [Email](mailto:your-email@example.com)
-
